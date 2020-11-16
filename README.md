@@ -21,7 +21,19 @@
 ![Tela Principal](images/head.png)
 <hr>
 
-## Finalizada a parte do head da plataforma, onde vai ficar os <b>seriados em destaque</br>.
+## Finalizada a parte do head da plataforma, onde vai ficar os <b>seriados em destaque.</br>
 
 ![Tela Principal](images/headFeito.png)
 <hr>
+
+## Telas <b>responsivas<b/>
+
+![Tela Principal](images/telaPrincipalCelular.png)
+<hr>
+
+![Tela Principal](images/listaFilmesCelular.png )
+<hr>
+
+
+
+

@@ -1,12 +1,14 @@
 import React from 'react';
-import {Container} from './styled';
+import {Container, Link, LinkMovie} from './styled';
 
 export default () => {
     return(
         <Container>
-                Feito com 😍 por <a href="https://github.com/thiagoadssilva/netflixClone" target="_blank">Thiago jose da silva <br/></a> 
+                Feito Com 😍  
+                <Link href="https://github.com/thiagoadssilva/netflixClone" target="_blank"> Thiago Jose da Silva</Link><br/>
                 Direitos de imagem para Netflix <br/>
-                Dados pegos do site: <a href="https://www.themoviedb.org/" target="_blank">themoviedb</a> 
+                Dados pegos do site:
+                <LinkMovie href="https://www.themoviedb.org/" target="_blank"> themoviedb</LinkMovie>
         </Container>
     );
 }
